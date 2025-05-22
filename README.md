@@ -11,9 +11,9 @@ Reusing the code of a website and generating a new website.
 
 it increases the accuracy of the reuse of the code.
  
-Project Title: FoodCycle: Bridging Hunger Through Surplus Sharing
+# Project Title: FoodCycle: Bridging Hunger Through Surplus Sharing
 
-Brief Description:
+# Brief Description:
 
 FoodCycle is a website developed to support Sustainable Development Goal 2 (SDG 2): 
 
