@@ -13,7 +13,9 @@ it increases the accuracy of the reuse of the code.
  
 # Project Title: 
 
-# FoodCycle: Bridging Hunger Through Surplus Sharing
+# FoodCycle
+
+# Bridging Hunger Through Surplus Sharing
 
 # Brief Description:
 
